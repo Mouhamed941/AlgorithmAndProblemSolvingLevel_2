@@ -22,13 +22,13 @@ void PrintReversedNumbers(int Number)
     {
         Remainder = Number % 10;
         Number = Number / 10;
-        cout << Remainder ;
+        cout << Remainder;
     }
 }
 int main()
 {
     int Number = ReadPositiveNumber("Please Enter a Number ");
     PrintReversedNumbers(Number);
-    
+
 }
 
