@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 04_PerfectNumbersFr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 05_PrintNumberInReversedOrder", "Problem 05_PrintNumberInReversedOrder\Problem 05_PrintNumberInReversedOrder.vcxproj", "{5C34CF6D-3F71-46A3-811B-116EE71FBAB3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 06_SumOfDigits", "Problem 06_SumOfDigits\Problem 06_SumOfDigits.vcxproj", "{2615B379-900C-4C78-B74B-620F21B15C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{5C34CF6D-3F71-46A3-811B-116EE71FBAB3}.Release|x64.Build.0 = Release|x64
 		{5C34CF6D-3F71-46A3-811B-116EE71FBAB3}.Release|x86.ActiveCfg = Release|Win32
 		{5C34CF6D-3F71-46A3-811B-116EE71FBAB3}.Release|x86.Build.0 = Release|Win32
+		{2615B379-900C-4C78-B74B-620F21B15C07}.Debug|x64.ActiveCfg = Debug|x64
+		{2615B379-900C-4C78-B74B-620F21B15C07}.Debug|x64.Build.0 = Debug|x64
+		{2615B379-900C-4C78-B74B-620F21B15C07}.Debug|x86.ActiveCfg = Debug|Win32
+		{2615B379-900C-4C78-B74B-620F21B15C07}.Debug|x86.Build.0 = Debug|Win32
+		{2615B379-900C-4C78-B74B-620F21B15C07}.Release|x64.ActiveCfg = Release|x64
+		{2615B379-900C-4C78-B74B-620F21B15C07}.Release|x64.Build.0 = Release|x64
+		{2615B379-900C-4C78-B74B-620F21B15C07}.Release|x86.ActiveCfg = Release|Win32
+		{2615B379-900C-4C78-B74B-620F21B15C07}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
